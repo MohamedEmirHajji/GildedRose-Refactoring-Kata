@@ -12,6 +12,8 @@
 - __"Backstage passes"__, like aged brie, increases in `Quality` as its `SellIn` value approaches;
 	- `Quality` increases by `2` when there are `10` days or less and by `3` when there are `5` days or less but
 	- `Quality` drops to `0` after the concert
+- __"Conjured"__ items degrade in `Quality` twice as fast as normal items
+- An item can never have its `Quality` increase above `50`, however __"Sulfuras"__ is a legendary item and as such its `Quality` is `80` and it never alters.
 
 ## General Instructions
 
