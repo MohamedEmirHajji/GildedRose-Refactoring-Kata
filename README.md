@@ -1,6 +1,6 @@
 # Gilded Rose
 
-This is the Gilded Rose kata in TypeScript.
+The purpose of this repository is to experiment with AI-assisted coding to refactor the classic Gilded Rose Kata in TypeScript. Instead of aimless “vibe coding,” the process follows a more controlled and structured approach, leveraging AI to achieve the best possible refactoring results while maintaining code quality and functionality.
 
 ## Getting started
 
